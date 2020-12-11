@@ -1,6 +1,6 @@
 # MODEVAR website
 
-> The website for the Second International Workshop on Languages for Modelling Variability (MODEVAR 2020)
+> The website for the Third International Workshop on Languages for Modelling Variability (MODEVAR 2021)
 
 ---
 

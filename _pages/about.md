@@ -17,7 +17,7 @@ redirect_from:
 *colocated with [SPLC 2020](http://splc2020.net)*
 
 ---
-Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (e.g., OVM, CVL, TVL,..) there is still no consensus on a simple feature modelling language. There can be many motivations to have one but among others, there is one that is very important: information sharing among researchers, tools or developers. This meeting, following the spirit of MODEVAR 2019, plans to be a full-day, interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on.
+Another Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (e.g., OVM, CVL, TVL,..) there is still no consensus on a simple feature modelling language. There can be many motivations to have one but among others, there is one that is very important: information sharing among researchers, tools or developers. This meeting, following the spirit of MODEVAR 2019, plans to be a full-day, interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on.
 
 ---
 The event will take place in University of Montreal and the Ecole de technologie superieure (ETS).
