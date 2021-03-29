@@ -111,7 +111,7 @@ author:
   links:
   - label: Leicester, United Kingdom
     icon: fas fa-fw fa-map-marker-alt
-    url: "https://splc2021.net/"
+    url: https://splc2021.net/
 footer:
   links:
   - label: Twitter
