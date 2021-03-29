@@ -7,8 +7,8 @@ redirect_from:
 - "/important-dates/"
 ---
 
-| Action             | Date          |
-| -------------------- | ------------ |
-| Paper Submission     | Aug 17, 2020 (AOE time) |
-| Paper Notification   | Sep 14, 2020 (AOE time) |
-| Final version        | Sep 21, 2020 (AOE time) |
+| Action               | Date                     |
+| -------------------- | ------------------------ |
+| Paper Submission     | June 11, 2021 (AOE time) |
+| Paper Notification   | June 25, 2021 (AOE time) |
+| Final version        | July  9, 2021 (AOE time) |

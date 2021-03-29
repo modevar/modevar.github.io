@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## Organizing Committee
+* Thomas Thuem, Technische Universität Braunschweig, Germany
 * Mathieu Acher, University of Rennes 1, France
 * Philippe Collet, University of Nice Sophia Antipolis, France
 * David Benavides, University of Sevilla, Spain
-* Rick Rabiser,  University Linz, Austria
 
 ## Programme Commitee
 * Mathieu Acher, University of Rennes 1, France

@@ -1,5 +1,5 @@
 ---
-title: MODEVAR@SPLC 2020
+title: MODEVAR@SPLC 2021
 timezone: UTC
 collections:
   pages:
@@ -37,14 +37,14 @@ minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
 name: International Workshop on Languages for Modelling Variability (MODEVAR)
-description: Website of the Third International Workshop on Languages for Modelling
+description: Website of the Fourth International Workshop on Languages for Modelling
   Variability
 url: https://modevar.github.io
 baseurl: 
 repository: modevar/modevar.github.io
 teaser: 
 logo: 
-masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2020</span>
+masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2021</span>
 words_per_minute: 200
 comments:
   provider: 
@@ -105,13 +105,13 @@ analytics:
     anonymize_ip: false
 author:
   name: ''
-  avatar: assets/modevar/modevar-2020.png
+  avatar: assets/modevar/modevar-2021.png
   bio: What variability language do you wanna use?...
-  location: at SPLC 2020
+  location: at SPLC 2021
   links:
-  - label: Montréal, Canada
+  - label: Leicester, United Kingdom
     icon: fas fa-fw fa-map-marker-alt
-    url: "#"
+    url: "https://splc2021.net/"
 footer:
   links:
   - label: Twitter
