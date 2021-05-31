@@ -10,6 +10,8 @@ redirect_from:
 
 ---
 
-## TBD
+**Keynote:** *How to sustain a tool building community-driven effort. Experiences from the modeling trenches*, by  Jordi Cabot 
 
-The program will be available after the date for paper notifications.
+---
+
+**NOTE:** The definitive program will be available after the date for paper notifications.
