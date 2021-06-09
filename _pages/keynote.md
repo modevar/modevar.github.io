@@ -1,7 +1,7 @@
 ---
-title: 'MODEVAR@SPLC 2021'
-tagline: 'Keynote by Jordi Cabot'
+title: MODEVAR@SPLC 2021
 permalink: "/keynote/"
+tagline: Keynote by Jordi Cabot
 header:
   overlay_image: "/assets/modevar/jordi-cabot-header.jpg"
   overlay_filter: 0.3
