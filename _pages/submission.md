@@ -12,7 +12,7 @@ redirect_from:
  
 MODEVAR will receive your submissions via the [official SPLC EasyChair for SPLC](https://easychair.org/conferences/?conf=splc2021).
 
-You must click on *New Submission* and select the "4th Intl. Workshop on Variability and Evolution of Software-intensive Systems".
+You must click on *New Submission* and select the "Fourth International Workshop on Languages for Modelling Variability".
 
 
 
