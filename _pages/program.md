@@ -10,7 +10,10 @@ redirect_from:
 
 ---
 
-**Keynote:** *How to sustain a tool building community-driven effort. Experiences from the modeling trenches*, by  Jordi Cabot 
+|   |   |
+|---|---|
+|**Keynote:**| [*How to sustain a tool building community-driven effort. Experiences from the modeling trenches*](/keynote), by Jordi Cabot |
+|**Invited Talk:**| [*Product Line Engineering and Standardization: Mission Accomplished?*](/invited-talk), by Danilo Beuche |
 
 ---
 

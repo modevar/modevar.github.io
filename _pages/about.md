@@ -18,7 +18,10 @@ redirect_from:
 
 ---
 
-> We are thrilled to announce [Jordi Cabot as our keynote speaker](keynote). He will discuss "How to sustain a tool building community-driven effort" based on his experiences from the modeling trenches. 
+> We are thrilled to announce [an invited talk by Danilo Beuche](invited-talk): "Product Line Engineering and Standardization: Mission Accomplished?". He will discuss about the diverse standardization initiatives on product line engineering and their impact in variability modeling and management. 
+
+> In addition, we have announced [Jordi Cabot as our keynote speaker](keynote). He will discuss "How to sustain a tool building community-driven effort" based on his experiences from the modeling trenches. 
+
 
 ---
 Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (e.g., OVM, CVL, TVL,..) there is still no consensus on a simple feature modelling language. There can be many motivations to have one but among others, there is one that is very important: information sharing among researchers, tools or developers. 
