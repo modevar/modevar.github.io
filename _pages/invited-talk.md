@@ -1,7 +1,7 @@
 ---
-title: 'MODEVAR@SPLC 2021'
-tagline: 'Ivited Talk by Danilo Beuche'
+title: MODEVAR@SPLC 2021
 permalink: "/invited-talk/"
+tagline: Ivited Talk by Danilo Beuche
 header:
   overlay_image: "/assets/modevar/pure-variants-screenshot.png"
   overlay_filter: 0.3
