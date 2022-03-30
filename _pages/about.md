@@ -1,11 +1,11 @@
 ---
-title: 'Fourth International Workshop on Languages for Modelling Variability (MODEVAR
-  2021)<br><span style="font-size: 60%;">Leicester, UK. September 2021</span>'
+title: 'Fifth International Workshop on Languages for Modelling Variability (MODEVAR
+  2022)<br><span style="font-size: 60%;">Graz, Austria. September 2022</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/modevar/modevar-2021-background.jpg"
+  overlay_image: "/assets/modevar/modevar-2022-background.jpg"
   overlay_filter: 0.3
-  caption: 'Photo: [Visit Leicester](https://www.visitleicester.info/)'
+  caption: 'Photo: [Austria.info](https://www.austria.info/es/destinos/ciudades/graz)'
 author_profile: true
 classes: wide
 redirect_from:
@@ -13,15 +13,8 @@ redirect_from:
 - "/about.html"
 ---
 
-**Fourth International Workshop on Languages for Modelling Variability (MODEVAR 2021)**
-*colocated with [SPLC 2021](http://splc2021.net)*
-
----
-
-> We are thrilled to announce [an invited talk by Danilo Beuche](invited-talk): "Product Line Engineering and Standardization: Mission Accomplished?". He will discuss about the diverse standardization initiatives on product line engineering and their impact in variability modeling and management. 
-
-> In addition, we have announced [Jordi Cabot as our keynote speaker](keynote). He will discuss "How to sustain a tool building community-driven effort" based on his experiences from the modeling trenches. 
-
+**Fifth International Workshop on Languages for Modelling Variability (MODEVAR 2022)**
+*colocated with [SPLC 2022](https://2022.splc.net/)*
 
 ---
 Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (e.g., OVM, CVL, TVL,..) there is still no consensus on a simple feature modelling language. There can be many motivations to have one but among others, there is one that is very important: information sharing among researchers, tools or developers. 
@@ -29,7 +22,7 @@ Feature models were invented in 1990 and have been recognised as one of the main
 This meeting, following the spirit of the previous MODEVAR workshops, plans to be a full-day, interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on.
 
 ---
-The event will be held online colocated with the 25th ACM International Systems and Software Product Line Conference (SPLC 2021).
+The event will be held online colocated with the 26th ACM International Systems and Software Product Line Conference (SPLC 2022).
 
-![MODEVAR will be at Leicester](/assets/modevar/modevar-2021-background.jpg "MODEVAR will be at Leicester")
+![MODEVAR will be at Graz](/assets/modevar/modevar-2022-background.jpg "MODEVAR will be at Graz")
 

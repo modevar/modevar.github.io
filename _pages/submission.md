@@ -7,18 +7,18 @@ redirect_from:
 - "/call-for-papers/"
 ---
 
-## [Submission link](https://easychair.org/conferences/?conf=splc2020)
+## [Submission link](https://easychair.org/my/conference?conf=splc2022)
 
  
-MODEVAR will receive your submissions via the [official SPLC EasyChair for SPLC](https://easychair.org/conferences/?conf=splc2021).
+MODEVAR will receive your submissions via the [official SPLC EasyChair for SPLC 2022](https://easychair.org/my/conference?conf=splc2022).
 
-You must click on *New Submission* and select the "Fourth International Workshop on Languages for Modelling Variability".
+You must click on *New Submission* and select the "Fifth International Workshop on Languages for Modelling Variability".
 
 
 
 ## Submission Guidelines
 
-The submissions must follow the guidelines defined for the [SPLC 2021 workshops](https://splc2021.net/call-for-papers).
+The submissions must follow the guidelines defined for the [SPLC 2022 workshops](https://2022.splc.net/program/workshops/).
 
 
 

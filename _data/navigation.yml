@@ -8,11 +8,9 @@ main:
     url: /submission/    
   - title: "Important Dates"
     url: /dates/     
-  - title: "Program"
-    url: /program/    
+#  - title: "Program"
+#    url: /program/    
   - title: "Committees"
     url: /committees/    
-  - title: "Keynote"
-    url: /keynote/
   - title: "History"
     url: /history/
