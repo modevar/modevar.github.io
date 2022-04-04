@@ -23,13 +23,9 @@ redirect_from:
 * Kyo Kang, Postech, Korea
 * Lidia Fuentes, University of Málaga, Spain
 * Mathieu Acher, University of Rennes, Inria, CNRS, IRISA, France
-[//]: # (Maurice H. ter Beek, ISTI-CNR, Pisa, Italy)
 * Oscar Díaz, University of the Basque Country, Spain
 * Paul Gazzillo, University of Central Florida, United States
 * Pierre Schobbens, University of Namur, Belgium
 * Raúl Mazo, ENSTA Bretagne, France
 * Rick Rabiser, Johannes Kepler University Linz, Austria
-[//]: # (Roberto Erick Lopez-Herrejon, Ecole de Technologie Superieure, Canada)
-[//]: # (Tewfik Ziadi, Sorbonne Université-CNRS 7606, LIP6, France)
 * Thomas Thüm, University of Ulm, Germnay
-[//]: # (Thorsten Berger, Chalmers, University of Gothenburg, Sweden)
