@@ -8,27 +8,28 @@ redirect_from:
 ---
 
 ## Workshop Chairs
-* Thomas Thüm, University of Ulm, Germnay
-* Mathieu Acher, University of Rennes 1, France
+* José Miguel Horcas, University of Seville, Spain
+* Ángela Villota, Universidad Icesi, Colombia
+* David Benavides, University of Seville, Spain
 * Philippe Collet, Université Côte d'Azur, France
 
 ## Programme Committee
-* Mathieu Acher, University of Rennes, Inria, CNRS, IRISA, France
-* Philippe Collet, Université Côte d’Azur, CNRS, I3S, France
-* Thomas Thüm, University of Ulm, Germany
-* David Benavides, University of Seville, Spain
-* Thorsten Berger, Chalmers, University of Gothenburg, Sweden
-* Jaime Chavarriaga, Universidad de los Andes, Colombia
-* Oscar Diaz, University of the Basque Country, Spain
-* Lidia Fuentes, University of Málaga, Spain
-* José A. Galindo, University of Seville, Spain
-* Paul Gazzillo, University of Central Florida, United States
-* José Miguel Horcas Aguilera, University of Málaga, Spain
-* Roberto Erick Lopez-Herrejon, Ecole de Technologie Superieure, Canada
-* Klaus Pohl, Paluno, University of Duisburg-Essen, Germany
-* Rick Rabiser, Johannes Kepler University Linz, Austria
-* Ina Schaefer, Technische Universität Braunschweig, Germany
-* Klaus Schmid, University of Hildesheim, Germany
 * Christoph Seidl, IT University Copenhagen, Denmark
-* Maurice H. ter Beek, ISTI-CNR, Pisa, Italy
-* Tewfik Ziadi, Sorbonne Université-CNRS 7606, LIP6, France
+* Don Batory, University of Texas at Austin, USA
+* Jaime Chavarriaga, Universidad de los Andes, Colombia
+* José A. Galindo, University of Seville, Spain
+* Jules White, Vanderbilt University, USA
+* Klaus Schmid, University of Hildesheim, Germany
+* Kyo Kang, Postech, Korea
+* Lidia Fuentes, University of Málaga, Spain
+* Mathieu Acher, University of Rennes, Inria, CNRS, IRISA, France
+[//]: # (Maurice H. ter Beek, ISTI-CNR, Pisa, Italy)
+* Oscar Díaz, University of the Basque Country, Spain
+* Paul Gazzillo, University of Central Florida, United States
+* Pierre Schobbens, University of Namur, Belgium
+* Raúl Mazo, ENSTA Bretagne, France
+* Rick Rabiser, Johannes Kepler University Linz, Austria
+[//]: # (Roberto Erick Lopez-Herrejon, Ecole de Technologie Superieure, Canada)
+[//]: # (Tewfik Ziadi, Sorbonne Université-CNRS 7606, LIP6, France)
+* Thomas Thüm, University of Ulm, Germnay
+[//]: # (Thorsten Berger, Chalmers, University of Gothenburg, Sweden)
