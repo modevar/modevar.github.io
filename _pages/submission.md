@@ -24,7 +24,7 @@ Submission types: Authors interested in participating in the workshop are reques
 
 **Regular paper (max. 8 pages)** that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
 
-**Short paper (4 pages)** that describes sound new ideas and concepts that are under research or experimental studies, as well as tutorials related (but not limited) to the topics on variability modelling languages.
+**Short paper (4 pages)** that describes sound new ideas and concepts that are under research or experimental studies.
 
 **Format:** Submissions must adhere to the latest ACM Master Article Template.
 Templates for Word and LaTeX are available at https://www.acm.org/publications/proceedings-template
