@@ -22,7 +22,7 @@ Feature models were invented in 1990 and have been recognised as one of the main
 This meeting, following the spirit of the previous MODEVAR workshops, plans to be a full-day, interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on.
 
 ---
-The event will be held online colocated with the 26th ACM International Systems and Software Product Line Conference (SPLC 2022).
+The event will be held colocated with the 26th ACM International Systems and Software Product Line Conference (SPLC 2022).
 
 ![MODEVAR will be at Graz](/assets/modevar/modevar-2022-background.jpg "MODEVAR will be at Graz")
 
