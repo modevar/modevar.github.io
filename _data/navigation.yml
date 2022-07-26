@@ -8,8 +8,8 @@ main:
     url: /submission/    
   - title: "Important Dates"
     url: /dates/     
-#  - title: "Program"
-#    url: /program/    
+  - title: "Program"
+    url: /program/    
   - title: "Committees"
     url: /committees/    
   - title: "History"
