@@ -18,7 +18,7 @@ redirect_from:
 | 11:00am | Daniel Friesel, Michael Müller, Matheus Ferraz and Olaf Spinczyk.<br/>**On the Relation of Variability Modeling Languages and Non-Functional Properties** |
 | 12:30pm | *Lunch* |
 |         | &nbsp;&nbsp;&nbsp;*-- Tutorials --*  |
-| 2:00-pm  | Chico Sundermann, Kevin Feichtinger, José A. Galindo, David Benavides, Rick Rabiser, Sebastian Krieter and Thomas Thüm.<br/>**Tutorial on the Universal Variability Language (part I)** |
+| 2:00pm  | Chico Sundermann, Kevin Feichtinger, José A. Galindo, David Benavides, Rick Rabiser, Sebastian Krieter and Thomas Thüm.<br/>**Tutorial on the Universal Variability Language (part I)** |
 | 3:00pm | *Break* |
-| 3:30m  | Chico Sundermann, Kevin Feichtinger, José A. Galindo, David Benavides, Rick Rabiser, Sebastian Krieter and Thomas Thüm.<br/>**Tutorial on the Universal Variability Language (part II)** |
+| 3:30pm  | Chico Sundermann, Kevin Feichtinger, José A. Galindo, David Benavides, Rick Rabiser, Sebastian Krieter and Thomas Thüm.<br/>**Tutorial on the Universal Variability Language (part II)** |
 | 5:00pm | Closing |
