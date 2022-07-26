@@ -2,7 +2,7 @@
 title: Program
 permalink: "/program/"
 author_profile: true
-sitemap: true
+sitemap: false
 classes: wide
 redirect_from:
 - "/agenda/"
