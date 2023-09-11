@@ -7,6 +7,11 @@ redirect_from:
 - "/organizers/"
 ---
 
+## Steering Committee
+* David Benavides, University of Seville, Spain
+* Rick Rabiser, Johannes Kepler University Linz, Austria
+* Thomas Thüm, University of Ulm, Germnay
+
 ## Workshop Chairs
 * José Miguel Horcas, University of Seville, Spain
 * Ángela Villota, Universidad Icesi, Colombia
