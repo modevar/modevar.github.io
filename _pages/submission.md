@@ -26,11 +26,11 @@ MODEVAR will receive your submissions via a separate MODEVAR EasyChair instance.
 
 Submission types: Authors interested in participating in the workshop are requested to submit either:
 
-Regular paper (max. 8 pages) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
+Regular paper (max. 8 pages + 2 for references) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
 
-Short paper (4 pages) that describes sound new ideas and concepts that are under research or experimental studies.
+Short paper (max. 4 pages + 2 for references) that describes sound new ideas and concepts that are under research or experimental studies.
 
-Tool paper (4 pages) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
+Tool paper (max. 4 pages + 2 for references) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
 
 Format: Submissions must adhere to the latest ACM Master Article Template. Templates for Word and LaTeX are available at https://www.acm.org/publications/proceedings-template 
 Latex users are indicated to use the “sigconf” option, so they are recommended to use the template that can be found in “sample-sigconf.tex”.
