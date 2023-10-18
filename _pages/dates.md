@@ -9,6 +9,6 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Paper Submission     | tbd |
-| Paper Notification   | tbd |
-| Final version        | tbd |
+| Paper Submission     | November 30, 2023 (AOE Time) |
+| Paper Notification   | December 14, 2023 (AOE Time) |
+| Final version        | December 21, 2023 (AOE Time) |
