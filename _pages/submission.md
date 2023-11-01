@@ -20,7 +20,7 @@ The topics are not limited to the list above. Particularly, we invite submission
 
 ## Submission
 
-MODEVAR will receive your submissions via a separate MODEVAR EasyChair instance. The link will be published soon.
+MODEVAR will receive your submissions via a separate MODEVAR [EasyChair instance](https://easychair.org/conferences/?conf=modevar2024).
 
 ## Submission Guidelines
 
