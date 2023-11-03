@@ -34,5 +34,5 @@ redirect_from:
 * Pierre-Yves	Schobbens,	University of Namur, Belgium
 * Thomas Thüm, University of Ulm, Germany
 * Xhevahire Tërnava, Université de Rennes 1, France
-* Angela Villota Gomez, Université Paris 1 - Panthéon Sorbonne, Universidad IcesiGomez, Colombia
+* Angela Villota Gomez, Université Paris 1 - Panthéon Sorbonne, France, Universidad Icesi, Colombia
 * Maurice ter Beek, ISTI-CNR, Pisa, Italy
