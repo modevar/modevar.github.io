@@ -24,7 +24,7 @@ The MODEVAR workshop is planned as full day event at **February 6th, 2024** in B
 ## Keynote
 Title: **24 Reasons Why Variability Models Are Not Yet Universal**
 
-Speaker: Mathieu Acher, Institut Universitaire de France
+Speaker: Mathieu Acher, INSA, Inria, CNRS, IRISA
 
 ### Abstract 
 Variability models (e.g., feature models) are widely considered in software engineering research and practice, in order to develop software product lines, configurable systems, generators, or adaptive systems.
