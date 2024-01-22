@@ -44,3 +44,8 @@ He has been nominated for the CNRS bronze medal by Section 6 of the CNRS in Nove
 Since 2021, he has been a junior researcher at the Institut Universitaire de France (IUF). More information: https://mathieuacher.com/.
 
 ![Mathieu Acher](/assets/images/bio-photo-2024-keynote.jpg "Mathieu will give the keynote at MODEVAR!")
+
+## Accepted Papers
+Prankur Agarwal, Kevin Feichtinger, Klaus Schmid, Holger Eichelberger and Rick Rabiser **On the Challenges of Transforming UVL to IVML and Back**
+Tobias Heß, Lukas Ostheimer, Tobias Betz, Simon Karrer, Tim Jannik Schmidt, Pierre Coquet, Sean Semmler and Thomas Thüm **variability.dev: Towards an Online Toolbox for Feature Modeling**
+David Romero-Organvidez, Jose A. Galindo and David Benavides **UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets**
