@@ -8,16 +8,22 @@ redirect_from:
 - "/agenda/"
 ---
 
-The MODEVAR workshop is planned as full day event at **February 6th, 2024** in Bern. See below for a preliminary schedule. 
+The MODEVAR workshop is planned as full day event at **February 6th, 2024** in Bern. The main objective of the afternoon discussions is to reflect about the **current challenges and potential avenues to be explored for variability languages**.
 
 
 | Program                                 | Time          |
 | --------------------------------------- | ------------- |
-| Welcome and Keynote                     | 09:00 - 10:00 |
-| Break                                   | 10:00 - 10:15 |
-| Talks                                   | 10:15 - 12:00 |
+| Welcome                                 | 09:00 - 09:15 |
+| Keynote: *24 Reasons Why Variability Models Are Not Yet Universal* - Mathieu Acher  | 09:15 - 10:15 |
+| Coffee break                            | 10:15 - 10:30 |
+| Paper: *variability.dev: Towards an Online Toolbox for Feature Modeling* | 10:30 - 11:00 |
+| Paper: *On the Challenges of Transforming UVL to IVML and Back*  | 11:00 - 11:30 |
+| Paper: *UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets* | 11:30 - 12:00 |
 | Lunch                                   | 12:00 - 13:30 |
-| Discussion: Current state (details tba) | 13:30 - 16:00 |
+| Current state (UVL) + tool demos        | 13:30 - 14:15 |
+| Breakout groups (1)                     | 14:15 - 14:45 |
+| Coffee break                            | 14:45 - 15:00 |
+| Breakout groups (2)                     | 15:00 - 16:00 |
 | Closing                                 | 16:00 - 16:30 |
 
 
