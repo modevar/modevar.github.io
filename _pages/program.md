@@ -55,3 +55,10 @@ Since 2021, he has been a junior researcher at the Institut Universitaire de Fra
 * Prankur Agarwal, Kevin Feichtinger, Klaus Schmid, Holger Eichelberger and Rick Rabiser **On the Challenges of Transforming UVL to IVML and Back**
 * Tobias Heß, Lukas Ostheimer, Tobias Betz, Simon Karrer, Tim Jannik Schmidt, Pierre Coquet, Sean Semmler and Thomas Thüm **variability.dev: Towards an Online Toolbox for Feature Modeling**
 * David Romero-Organvidez, Jose A. Galindo and David Benavides **UVL Sentinel: a tool for parsing and syntactic correction of UVL datasets**
+
+
+## Tool Demos
+* Elias Kuiter **Torte: feature-model experiments à la carte**
+* David Romero-Organvidez **UVLHub**
+* Lukas Ostheimer, Tobias Heß **variability.dev**
+* Hafiyyan Sayyid Fadhlillah **V4rdiac - Delta-based CPPS Control Software Variability Management Tool Support**
