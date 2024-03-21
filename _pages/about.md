@@ -2,9 +2,9 @@
 title: 'Seventh International Workshop on Languages for Modelling Variability (MODEVAR@SPLC 2024)<br><span style="font-size: 60%;">Luxembourg. September 2024</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/images/bern-modevar.jpg"
+  overlay_image: "/assets/images/Luxembourg_City5_-_LCTO_01.jpg"
   overlay_filter: 0.3
-  caption: 'Photo: [bern.com](https://www.bern.com/de/detail/unesco-weltkulturerbe-2)'
+  caption: 'Photo: [LCTO](https://www.visitluxembourg.com/plan-your-stay/practical-information)'
 author_profile: true
 classes: wide
 redirect_from:
