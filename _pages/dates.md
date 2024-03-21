@@ -9,6 +9,6 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Paper Submission     | November 30, 2023 (AOE Time) |
-| Paper Notification   | December 14, 2023 (AOE Time) |
-| Final version        | January 15, 2024 <s>December 21, 2023</s> (AOE Time) |
+| Paper Submission     | June 4, 2024 (AOE Time) |
+| Paper Notification   | June 28, 2024 (AOE Time) |
+| Final version        | July 10, 2024 (AOE Time) |
