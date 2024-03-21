@@ -16,11 +16,9 @@ Mainly, we invite submissions considering topics related to variability modellin
 * Tools: (collaborative) editing, storage/repositories, exchange, translation to other representations, analyses and testing.
 * Analysing existing languages and approaches: Feature Modelling, Decision Modelling, OVM, UML-based, KConfig, Delta-Oriented Modelling, CVL, TVL, etc.
 
-The topics are not limited to the list above. Particularly, we invite submissions addressing the scope of the [VaMoS](https://vamos2024.inf.unibe.ch/cfp/) conference.
+## Submission link
 
-## Submission
-
-MODEVAR will receive your submissions via a separate MODEVAR [EasyChair instance](https://easychair.org/conferences/?conf=modevar2024).
+TBA
 
 ## Submission Guidelines
 
