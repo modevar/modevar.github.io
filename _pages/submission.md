@@ -18,7 +18,7 @@ Mainly, we invite submissions considering topics related to variability modellin
 
 ## Submission link
 
-TBA
+[https://easychair.org/conferences/?conf=splc2024](https://easychair.org/conferences/?conf=splc2024)
 
 ## Submission Guidelines
 
