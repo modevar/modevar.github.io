@@ -9,6 +9,7 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Paper Submission     | ~~June 4~~ June 9, 2024 (AOE Time) |
+| Paper Abstract Submission     | ~~June 4~~ June 9, 2024 (AOE Time) |
+| Paper Submission     | ~~June 4~~ June 12, 2024 (AOE Time) |
 | Paper Notification   | ~~June 28~~ July 1, 2024 (AOE Time) |
 | Final version        | July 10, 2024 (AOE Time) |
