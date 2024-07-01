@@ -26,6 +26,7 @@ Lidia	Fuentes,	Universidad de Málaga
 José A.	Galindo,	University of Seville	  
 Tobias	Heß,	University of Ulm	  
 José Miguel	Horcas Aguilera,	University of Málaga   
+Kristof Meixner,	TU Wien  
 Gilles	Perrouin,	PReCISE, University of Namur	   
 Rick	Rabiser,	Johannes Kepler University Linz	   
 Klaus	Schmid,	University of Hildesheim   
