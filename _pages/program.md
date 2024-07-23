@@ -15,7 +15,8 @@ The detailed program will be announced shortly.
 
 ## Keynote
 
-![Danilo Beuche](/assets/images/Beuche_bio_pic.jpg "Danilo will give the keynote at MODEVAR!")
+<!--![Danilo Beuche](/assets/images/Beuche_bio_pic.jpg "Danilo will give the keynote at MODEVAR!")-->
+<img src="https://modevar.github.io/assets/images/Beuche_bio_pic.jpg" width="400px" />
 
 Speaker: Danilo Beuche, VP of Strategy and Go-to-Market at PTC
 
