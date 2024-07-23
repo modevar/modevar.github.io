@@ -15,9 +15,11 @@ The detailed program will be announced shortly.
 
 ## Keynote
 
-Title: **Why There Never Will Be A Standardized Variability Modeling Language And How To Change That**
+![Danilo Beuche](/assets/images/Beuche_bio_pic.jpg "Danilo will give the keynote at MODEVAR!")
 
-Speaker: Danilo Beuche, VP Strategy and Go To Market, PTC
+Speaker: Danilo Beuche, VP of Strategy and Go-to-Market at PTC
+
+Title: **Why There Never Will Be A Standardized Variability Modeling Language And How To Change That**
 
 ### Abstract 
 In the realm of product line engineering (PLE), variability modeling languages play a pivotal role in capturing and managing differences among related products. While niche areas like AUTOSAR or mechanical engineering have standardized variability modeling languages, there is no universally accepted language for general-purpose variability modeling in systems and software product lines.
@@ -27,6 +29,9 @@ While ISO has an impressive set of standards for systems and software product li
 The talk aims to shed light on potential solutions to the current challenge. Should we opt for an extensible language framework or define “the one and only” language? Our intention is to contribute to the discussion, emphasizing the role researchers can play in bringing a meaningful standard for variability modeling into existence.
 
 Join us for an engaging exploration of the complex task of creating meaningful standards for variability modeling in product line engineering.
+
+### Biography
+Prof. Dr. Danilo Beuche works as VP of Strategy and Go-to-Market at PTC.  He is the former CEO and co-founder of pure-systems, a software company that created pure::variants, a software developed for the implementation of product line technologies in embedded software systems. Danilo began his career in the field of embedded operating systems and software families in the mid-90s. His research on tool development for feature-based software development at the University of Magdeburg ultimately led to the establishment of pure-systems in 2001. Additionally, since 2016, he is serving as an honorary professor at the Institute for Information Systems (IWI) at the University of Leipzig.
 
 ## Accepted Papers
 * Rick Rabiser **Industry Adoption of UVL: What We Will Need**
