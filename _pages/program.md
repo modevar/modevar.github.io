@@ -10,13 +10,42 @@ redirect_from:
 
 The MODEVAR workshop is planned as full day event at **September 2nd, 2024** in Luxembourg. The main objective of the afternoon discussions is to reflect about the **current challenges and potential avenues to be explored for variability languages**.
 
-The detailed program will be announced shortly.
+Paper presentations should not take longer than 30 minutes (20 min + 10 min questions) including discussions. 
+
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Program**     |                                                                                                                                                                  |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session chair:  | TBA                                                                                                                                                              |
+| 09:00 - 09:05   | Welcome                                                                                                                                                          |
+| 09:05 - 10:30   | Keynote: Danilo Beuche<br>**Why There Never Will Be A Standardized Variability Modeling Language And How To Change That**                                        |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:30 - 11:00   | Coffee break                                                                                                                                                     |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session chair:  | TBA                                                                                                                                                              |
+| 11:00 - 11:30   | Chico Sundermann, Tobias Heß, Rahel Sundermann, Elias Kuiter, Sebastian Krieter and Thomas Thüm <br>**Generating Feature Models with UVL’s Full Expressiveness** |
+| 11:30 - 12:00   | Hafiyyan Sayyid Fadhlillah and Rick Rabiser <br>**Towards a Product Configuration Representation for the Universal Variability Language**                        |
+| 12:00 - 12:30   | Rick Rabiser <br>**Industry Adoption of UVL: What We Will Need**                                                                                                 |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12:00 - 14:00   | Lunch                                                                                                                                                            |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session chair:  | TBA                                                                                                                                                              |
+| 14:00 - 14:30   | David Romero Organvídez, Pablo Neira, José A. Galindo and David Benavides <br>**Kconfig metamodel: a first approach**                                            |
+| 14:30 - 15:00   | Jacques Malenfant and Tewfik Ziadi <br>**Can Conditional Preferences and ∗CP-net Concepts Enhance Feature Models?**                                              |
+| 15:00 - 15:30   | Peparing Breakout Groups                                                                                                                                         |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 15:30 - 16:00   | Coffee break                                                                                                                                                     |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session chair:  | TBA                                                                                                                                                              |
+| 16:00 - 16:30   | Breakout Groups                                                                                                                                                  |
+| 16:30 - 17:00   | Summary of Breakout Groups                                                                                                                                       |
+| 17:00 - 17:30   | Next steps and final remarks / Closing                                                                                                                           |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ## Keynote
 
 <!--![Danilo Beuche](/assets/images/Beuche_bio_pic.jpg "Danilo will give the keynote at MODEVAR!")-->
-<img src="https://modevar.github.io/assets/images/Beuche_bio_pic.jpg" width="400px" />
+<img src="https://modevar.github.io/assets/images/Beuche_bio_pic.jpg" width="300px" />
 
 Speaker: Danilo Beuche, VP of Strategy and Go-to-Market at PTC
 
