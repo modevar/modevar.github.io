@@ -20,7 +20,7 @@ Paper presentations should not take longer than 30 minutes (20 min + 10 min ques
 | 10:30 - 11:00   | Coffee   break                                                                                                                                                       |
 | Session chair:  | Jessie   Galasso-Carbonnel                                                                                                                                           |
 | 11:00 - 11:30   | Chico Sundermann, Tobias Heß, Rahel Sundermann,   Elias Kuiter, Sebastian Krieter and Thomas Thüm<br>**Generating Feature Models with UVL’s Full   Expressiveness** |
-| 11:30 - 12:00   | Hafiyyan Sayyid Fadhlillah and Rick   Rabiser<br>**Towards a Product Configuration Representation for the Universal Variability** Language                        |
+| 11:30 - 12:00   | Hafiyyan Sayyid Fadhlillah and Rick   Rabiser<br>**Towards a Product Configuration Representation for the Universal Variability Language**                        |
 | 12:00 - 12:30   | Rick Rabiser<br>     **Industry Adoption of UVL: What We Will Need**                                                                                                     |
 | 12:00 - 14:00   | Lunch                                                                                                                                                                |
 | Session chair:  | Rick   Rabiser                                                                                                                                                       |
