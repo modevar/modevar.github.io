@@ -15,27 +15,29 @@ Paper presentations should not take longer than 30 minutes (20 min + 10 min ques
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Program**     |                                                                                                                                                                  |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Session chair:  | TBA                                                                                                                                                              |
+| Session chair:  | Kevin Feichtinger                                                                                                                                                |
 | 09:00 - 09:05   | Welcome                                                                                                                                                          |
 | 09:05 - 10:30   | Keynote: Danilo Beuche<br>**Why There Never Will Be A Standardized Variability Modeling Language And How To Change That**                                        |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10:30 - 11:00   | Coffee break                                                                                                                                                     |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Session chair:  | TBA                                                                                                                                                              |
+| Session chair:  | Jessie Galasso-Carbonnel 
+                                                                                                                                                              |
 | 11:00 - 11:30   | Chico Sundermann, Tobias Heß, Rahel Sundermann, Elias Kuiter, Sebastian Krieter and Thomas Thüm <br>**Generating Feature Models with UVL’s Full Expressiveness** |
 | 11:30 - 12:00   | Hafiyyan Sayyid Fadhlillah and Rick Rabiser <br>**Towards a Product Configuration Representation for the Universal Variability Language**                        |
 | 12:00 - 12:30   | Rick Rabiser <br>**Industry Adoption of UVL: What We Will Need**                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 12:00 - 14:00   | Lunch                                                                                                                                                            |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Session chair:  | TBA                                                                                                                                                              |
+| Session chair:  | Rick Rabiser                                                                                                                                                              |
 | 14:00 - 14:30   | David Romero Organvídez, Pablo Neira, José A. Galindo and David Benavides <br>**Kconfig metamodel: a first approach**                                            |
 | 14:30 - 15:00   | Jacques Malenfant and Tewfik Ziadi <br>**Can Conditional Preferences and ∗CP-net Concepts Enhance Feature Models?**                                              |
 | 15:00 - 15:30   | Peparing Breakout Groups                                                                                                                                         |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15:30 - 16:00   | Coffee break                                                                                                                                                     |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Session chair:  | TBA                                                                                                                                                              |
+| Session chairs:  | Jessie Galasso-Carbonnel/Kevin Feichtinger 
+                                                                                                                                                              |
 | 16:00 - 16:30   | Breakout Groups                                                                                                                                                  |
 | 16:30 - 17:00   | Summary of Breakout Groups                                                                                                                                       |
 | 17:00 - 17:30   | Next steps and final remarks / Closing                                                                                                                           |
