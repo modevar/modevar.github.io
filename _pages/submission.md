@@ -7,9 +7,12 @@ redirect_from:
 - "/call-for-papers/"
 ---
 
+## Aim
+In this MODEVAR workshop edition, there will be no formal proceedings. However, to ... Additionally, 
+
 ## Topics
 
-Mainly, we invite submissions considering topics related to variability modelling languages:
+We invite submissions for **lightning talk proposals** where participants can presents their work to the community and ask for feedback. Mainly, we invite submissions considering topics related to variability modelling languages:
 
 * Concepts: domain modelling, language constructs, mapping to other artefacts.
 * Usages: writing, reading, generating, reverse engineering, (de-)composition, benchmarking.
@@ -18,22 +21,12 @@ Mainly, we invite submissions considering topics related to variability modellin
 
 ## Submission link
 
-[https://easychair.org/conferences/?conf=splc2024](https://easychair.org/conferences/?conf=splc2024)
+If you are interested in giving a lightning talk at MODEVAR’25, please write us a message to [hafiyyan.fadhlillah@jku.at](hafiyyan.fadhlillah@jku.at) and [kevin.feichtinger@kit.edu](kevin.feichtinger@kit.edu) with the following information:
 
-## Submission Guidelines
-
-Submission types: Authors interested in participating in the workshop are requested to submit either:
-
-Regular paper (max. 8 pages + 2 for references) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
-
-Short paper (max. 4 pages + 2 for references) that describes sound new ideas and concepts that are under research or experimental studies.
-
-Tool paper (max. 4 pages + 2 for references) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
-
-Format: Submissions must adhere to the latest ACM Master Article Template. Templates for Word and LaTeX are available at https://www.acm.org/publications/proceedings-template 
-Latex users are indicated to use the “sigconf” option, so they are recommended to use the template that can be found in “sample-sigconf.tex”.
-
-Submission: All papers submitted to the workshop must be unpublished original work and must not have been submitted anywhere else for publication.
-
+```
+1. Lightning Talk Title
+2. Presenter's Name
+3. Abstract or Short Descriptions (max. 9 sentences or 200 words)
+```
 
 
