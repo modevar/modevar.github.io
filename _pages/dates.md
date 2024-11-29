@@ -9,7 +9,6 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Paper Abstract Submission     | ~~June 4~~ June 9, 2024 (AOE Time) |
-| Paper Submission     | ~~June 4~~ June 12, 2024 (AOE Time) |
-| Paper Notification   | ~~June 28~~ July 1, 2024 (AOE Time) |
-| Final version        | July 10, 2024 (AOE Time) |
+| Lightning Talk Proposal Submission     | TBD |
+| Lightning Talk Notification   | TBD |
+| Workshop Start        | February 3, 2025 (CET) |
