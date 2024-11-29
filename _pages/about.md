@@ -1,5 +1,5 @@
 ---
-title: 'Eighth International Workshop on Languages for Modelling Variability (MODEVAR@VAMOS 2025)<br><span style="font-size: 60%;">France. February 2025</span>'
+title: 'Eighth International Workshop on Languages for Modelling Variability (MODEVAR@VAMOS 2025)<br><span style="font-size: 60%;">Rennes, France. 03. February 2025</span>'
 permalink: "/"
 header:
   overlay_image: "/assets/images/rennes-tourist-office-img"
@@ -12,7 +12,7 @@ redirect_from:
 - "/about.html"
 ---
 
-**Eighth International Workshop on Languages for Modelling Variability (MODEVAR 2025a)**
+**Eighth International Workshop on Languages for Modelling Variability (MODEVAR 2025)**
 *colocated with [VAMOS'25](https://familiar-project.github.io/VaMoS2025/)*
 
 
