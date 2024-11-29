@@ -37,14 +37,14 @@ minimal_mistakes_skin: air
 locale: en-US
 title_separator: "-"
 name: International Workshop on Languages for Modelling Variability (MODEVAR)
-description: Website of the Seventh International Workshop on Languages for Modelling
+description: Website of the Eighth International Workshop on Languages for Modelling
   Variability
 url: https://modevar.github.io
 baseurl: 
 repository: modevar/modevar.github.io
 teaser: 
 logo: 
-masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2024</span>
+masthead_title: MODEVAR<span style="color:#0092ca;">@VaMoS 2025</span>
 words_per_minute: 200
 comments:
   provider: 
@@ -105,18 +105,18 @@ analytics:
     anonymize_ip: false
 author:
   name: ''
-  avatar: assets/modevar/modevar-2024-2.png
+  avatar: assets/modevar/modevar-2025-vamos.jpg
   bio: What variability language do you wanna use?...
-  location: at SPLC 2024
+  location: at VaMoS 2025
   links:
-  - label: Luxembourg
+  - label: Rennes, France
     icon: fas fa-fw fa-map-marker-alt
     url: 
 footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/splcconf
+    url: https://x.com/vamosconf
 include:
 - ".htaccess"
 - _pages
