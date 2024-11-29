@@ -2,7 +2,7 @@
 title: 'Eighth International Workshop on Languages for Modelling Variability (MODEVAR@VAMOS 2025)<br><span style="font-size: 60%;">Rennes, France. 03. February 2025</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/images/rennes-tourist-office-img"
+  overlay_image: "/assets/images/rennes-tourist-office-img.jpg"
   overlay_filter: 0.3
   caption: 'Photo: [LCTO](https://www.tourisme-rennes.com/en/)'
 author_profile: true
