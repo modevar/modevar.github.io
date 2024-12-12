@@ -16,4 +16,14 @@ We invite submissions for **lightning talk proposals** where participants can pr
 * Tools: (collaborative) editing, storage/repositories, exchange, translation to other representations, analyses and testing.
 * Analysing existing languages and approaches: Feature Modelling, Decision Modelling, OVM, UML-based, KConfig, Delta-Oriented Modelling, CVL, TVL, etc.
 
-Details on the way of subission will follow.
+## Submission link
+
+If you are interested in giving a lightning talk at MODEVAR’25, please write us a message to [hafiyyan.fadhlillah@jku.at](hafiyyan.fadhlillah@jku.at) and [kevin.feichtinger@kit.edu](kevin.feichtinger@kit.edu) with the following information:
+
+```
+1. Lightning Talk Title
+2. Presenter's Name
+3. Abstract or Short Descriptions (ca. 250 words)
+```
+
+If you have any further questions regarding the submission, please do not hesitate to send us an email.
