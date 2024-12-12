@@ -26,4 +26,4 @@ If you are interested in giving a lightning talk at MODEVAR’25, please write u
 3. Abstract or Short Descriptions (ca. 250 words)
 ```
 
-If you have any further questions regarding the submission, please do not hesitate to send us an email.
+If you have any further questions regarding the submission, please do not hesitate to email us.
