@@ -15,10 +15,10 @@ The MODEVAR workshop is planned as full day event at **February 3rd, 2025** in R
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Session chair:  | Kevin Feichtinger                                                                                                                                                    |
 | 09:00 - 09:05   | Welcome                                                                                                                                                              |
-| 09:05 - 10:30   | Keynote: Jean-Marc Jézéquel <br> **TBD**                                           |
+| 09:05 - 10:30   | Keynote: Jean-Marc Jézéquel <br> **The Search for the GREAL**                                           |
 | 10:30 - 11:00   | Coffee break                                                                                                                                                       |
 | Session chair:  | Sayyid                                                                                                                                   |
-| 11:00 - 11:30   | Lightning Talk 1: TBD |
+| 11:00 - 11:30   | Lightning Talk 1: Michael Nieke <br> **Modeling Vehicle Configuration Logics with Feature Precedences** |
 | 11:30 - 12:00   | Lightning Talk 2: TBD                       |
 | 12:00 - 12:30   | Lightning Talk 3: TBD                                                                                                    |
 | 12:30 - 13:30   | Lunch                                                                                                                                                                |
