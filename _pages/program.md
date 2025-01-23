@@ -19,7 +19,7 @@ The MODEVAR workshop is planned as full day event at **February 3rd, 2025** in R
 | 10:30 - 11:00   | Coffee break                                                                                                                                                       |
 | Session chair:  | Sayyid                                                                                                                                   |
 | 11:00 - 11:30   | Lightning Talk 1: Michael Nieke <br> **Modeling Vehicle Configuration Logics with Feature Precedences** |
-| 11:30 - 12:00   | Lightning Talk 2: TBD                       |
+| 11:30 - 12:00   | Lightning Talk 2: José Ángel Galindo Duarte <br> **Exploring the UVL Ecosystem: Tools, Techniques, and Collaborations**                         |
 | 12:00 - 12:30   | Lightning Talk 3: TBD                                                                                                    |
 | 12:30 - 13:30   | Lunch                                                                                                                                                                |
 | Session chairs:  | Kevin and Sayyid                                                                                                                                         |

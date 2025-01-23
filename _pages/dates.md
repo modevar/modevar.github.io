@@ -9,6 +9,4 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Lightning Talk Proposal Submission     | TBD |
-| Lightning Talk Notification   | TBD |
 | Workshop Start        | February 3, 2025 (CET) |

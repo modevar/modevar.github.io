@@ -15,7 +15,4 @@ redirect_from:
 ## Workshop Chairs
 * Hafiyyan Sayyid	Fadhlillah, Johannes Kepler University Linz, Austria
 * Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
-
-## Programme Committee
-TBA   
  
