@@ -30,3 +30,14 @@ The MODEVAR workshop is planned as full day event at **February 3rd, 2025** in R
 | 16:00 - 16:30   | Summary of Breakout Groups                                                                                                                                                    |
 | 16:30 - 17:00   | Next steps and final remarks / Closing                                                                                                                                         |
 
+## Keynote
+
+![Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/pic/jezequel.jpg 'Jean-Marc Jézéquel will give the keynote at MODEVAR!')
+
+Speaker: [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/), Professor at Université de Rennes, Fellow of the Institut Universitaire de France (IUF), President Informatics Europe
+
+Title: **The Search for the GREAL**
+
+### Abstract 
+The research community has achieved a great success in the standardization of the Universal Variability Language (UVL), a language for defining, creating, and managing variations in products and services. However UVL only partially fulfills the vision of orthogonal variability engineering. Missing is how the variability is realized with respect to the assets of a product line. In this talk, we investigate how the core principle that led to the UVL success could be applied to come up with the GREAL: a Generic REAlization Language.
+We identify openness, flexibility, declarativity and reusability as key aspects for managing realization of variability across industries, as well as using a layered approach to progressively fit more demanding contexts.
