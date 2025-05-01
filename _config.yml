@@ -1,5 +1,5 @@
 ---
-title: MODEVAR@SPLC 2024
+title: MODEVAR@SPLC 2025
 timezone: UTC
 collections:
   pages:
@@ -44,7 +44,7 @@ baseurl:
 repository: modevar/modevar.github.io
 teaser: 
 logo: 
-masthead_title: MODEVAR<span style="color:#0092ca;">@VaMoS 2025</span>
+masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2025</span>
 words_per_minute: 200
 comments:
   provider: 
@@ -105,9 +105,9 @@ analytics:
     anonymize_ip: false
 author:
   name: ''
-  avatar: assets/modevar/modevar-2025-vamos.jpg
+  avatar: assets/modevar/modevar-2025-splc.jpg
   bio: What variability language do you wanna use?...
-  location: at VaMoS 2025
+  location: at SPLC 2025
   links:
   - label: Rennes, France
     icon: fas fa-fw fa-map-marker-alt
@@ -116,7 +116,7 @@ footer:
   links:
   - label: Twitter
     icon: fab fa-fw fa-twitter-square
-    url: https://x.com/vamosconf
+    url: https://x.com/splcconf
 include:
 - ".htaccess"
 - _pages

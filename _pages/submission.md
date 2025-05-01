@@ -18,7 +18,7 @@ We invite submissions for **lightning talk proposals** where participants can pr
 
 ## Submission link
 
-If you are interested in giving a lightning talk at MODEVAR’25, please write us a message to [hafiyyan.fadhlillah@jku.at](hafiyyan.fadhlillah@jku.at) and [kevin.feichtinger@kit.edu](kevin.feichtinger@kit.edu) with the following information:
+If you are interested in giving a lightning talk at MODEVAR’25, please write us a message to [hafiyyan.fadhlillah@jku.at](mailto:hafiyyan.fadhlillah@jku.at) and [victor.lamas@udc.es](mailto:victor.lamas@udc.es) with the following information:
 
 ```
 1. Lightning Talk Title
