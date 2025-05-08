@@ -14,5 +14,8 @@ redirect_from:
 
 ## Workshop Chairs
 * Hafiyyan Sayyid	Fadhlillah, Johannes Kepler University Linz, Austria
-* Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
- 
+* Victor Lamas, University of A Coruña, Spain
+
+## Program Committee
+
+TBD

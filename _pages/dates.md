@@ -9,4 +9,6 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Workshop Start        | February 3, 2025 (CET) |
+| Workshop Paper Submission        | June 12, 2025 (AOE Time) |
+| Workshop Paper Notification        | July 3, 2025 (AOE Time) |
+| Final version of papers       | July 10, 2025 (AOE Time) |
