@@ -9,7 +9,7 @@ redirect_from:
 
 ## Topics
 
-We invite submissions for **lightning talk proposals** where participants can presents their work to the community and ask for feedback. Mainly, we invite Lightning Talk proposals considering topics related to variability modelling languages:
+Mainly, we invite submissions considering topics related to variability modelling languages:
 
 * Concepts: domain modelling, language constructs, mapping to other artefacts.
 * Usages: writing, reading, generating, reverse engineering, (de-)composition, benchmarking.
@@ -18,12 +18,23 @@ We invite submissions for **lightning talk proposals** where participants can pr
 
 ## Submission link
 
-If you are interested in giving a lightning talk at MODEVAR’25, please write us a message to [hafiyyan.fadhlillah@jku.at](mailto:hafiyyan.fadhlillah@jku.at) and [victor.lamas@udc.es](mailto:victor.lamas@udc.es) with the following information:
+You can access the following EasyChair link:
 
-```
-1. Lightning Talk Title
-2. Presenter's Name
-3. Abstract or Short Descriptions (ca. 250 words)
-```
+[https://easychair.org/my/conference?conf=splc2025](https://easychair.org/my/conference?conf=splc2025) 
 
-If you have any further questions regarding the submission, please do not hesitate to email us.
+Please use the **SPLC 2025 - MODEVAR Track** to submit your paper.
+
+## Submission Guidelines
+
+Submission types: Authors interested in participating in the workshop are requested to submit either:
+
+Regular paper (max. 8 pages + 2 for references) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
+
+Short paper (max. 4 pages + 2 for references) that describes sound new ideas and concepts that are under research or experimental studies.
+
+Tool paper (max. 4 pages + 2 for references) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
+
+Format: Submissions must adhere to the latest ACM Master Article Template. Templates for Word and LaTeX are available at https://www.acm.org/publications/proceedings-template 
+Latex users are indicated to use the “sigconf” option, so they are recommended to use the template that can be found in “sample-sigconf.tex”.
+
+**IMPORTANT:** All papers submitted to the workshop must be unpublished original work and must not have been submitted anywhere else for publication.
