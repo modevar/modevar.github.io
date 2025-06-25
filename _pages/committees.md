@@ -25,7 +25,9 @@ redirect_from:
 * Thomas Thüm, TU Braunschweig 
 * Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
 * Rick Rabiser, Johannes Kepler University Linz, SCCH, Austria
+* Alexander Stummer, Johannes Kepler University Linz, Austria
 * Lidia	Fuentes, Universidad de Málaga
 * Philippe Collet, Université Côte d'Azur - CNRS/I3S, FR
 * Kristof Meixner, TU Wien
 * Maurice ter Beek, CNR
+* Maya Retno Ayu Setyautami, Universitas Indonesia
