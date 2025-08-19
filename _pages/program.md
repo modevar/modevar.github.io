@@ -8,7 +8,7 @@ redirect_from:
 - "/agenda/"
 ---
 
-The MODEVAR workshop is planned as full day event at **September 1st or 2nd, 2025** in A Coruña, Spain. In the current edition, we are combining MODEVAR workshop with Re:Volution to invite more discussion within the community and discover more ideas on improving UVL or variability modeling in general. Additionally, we provide a UVL tutorial to invite participants for trying out the latest capabilities of UVL.
+The MODEVAR workshop is planned as a full day event at **September 1st, 2025** in A Coruña, Spain. In the current edition, we are combining MODEVAR workshop with Re:Volution to invite more discussion within the community and discover more ideas on improving UVL or variability modeling in general. Additionally, we provide a UVL tutorial to invite participants for trying out the latest capabilities of UVL.
 
 | Program         |                                                                                                                                                                      |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
