@@ -8,4 +8,31 @@ redirect_from:
 - "/agenda/"
 ---
 
-The MODEVAR workshop is planned as full day event at **September 1st or 2nd, 2025** in A Coruña, Spain. The main objective of the afternoon discussions is to **outline research directions to further develop UVL and variability modeling in general**. The details of the program will be announced after the final paper submission deadline. Stay tuned!
+The MODEVAR workshop is planned as full day event at **September 1st or 2nd, 2025** in A Coruña, Spain. In the current edition, we are combining MODEVAR workshop with Re:Volution to invite more discussion within the community and discover more ideas on improving UVL or variability modeling in general. Additionally, we provide a UVL tutorial to invite participants for trying out the latest capabilities of UVL.
+
+| Program         |                                                                                                                                                                      |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Session chair:  | Hafiyyan Sayyid Fadhlillah, Victor Lamas, Sandra Greiner, and Sebastian Krieter |
+| 09:00 - 09:10   | Opening |
+| Session chair:  | Hafiyyan Sayyid Fadhlillah |
+| 09:10 - 10:00   | Keynote: TBD |
+| 10:00 - 10:30   | Coffee break |
+| Session chairs:  | Sandra Greiner and Sebastian Krieter |
+| 10:30 - 10:55   | Re:Volution Invited Talk (I)  |
+| 10:55 - 11:20   | Re:Volution Invited Talk (II) |
+| 11:20 - 11:30   | Short Break (I) |
+| Session chair:  | Victor Lamas |
+| 11:30 - 11:50   | Short Paper: Malte Grave and Rick Rabiser <br> **Towards Consistency Management in Variability-Intensive Cyber-Physical Production Systems** |
+| 11:50 - 12:10   | Short Paper: David Romero Organvídez, Jesús Moreno-León, Gregorio Robles, Ana E. Chacón-Luna and David Benavides <br> **From Playmobil to Product Lines: towards a visual instrument for variability thinking measurement** |
+| 12:10 - 12:30   | Short Paper: Maurice ter Beek, Klaus Schmid and Holger Eichelberger <br> **Comparing the Universal Variability Language with other Textual Variability Modeling Languages** |
+| 12:30 - 13:30   | Lunch Break |
+| Session chairs:  | Sandra Greiner and Sebastian Krieter |
+| 13:30 - 13:45   | Re:Volution Industrial Talk (I) |
+| 13:45 - 14:00   | Re:Volution Industrial Talk (II) |     
+| Session chairs: | Hafiyyan Sayyid Fadhlillah |                             
+| 14:00 - 14:30   | Full Paper: Alexander Stummer, Anna-Lena Hager and Rick Rabiser <br> **Flexible Variability Mining for IEC 61499 Control Software Applications with Varflix** |
+| 14:30 - 15:30   | UVL Tutorial: Session 1 |
+| 15:30 - 16:00   | Coffee break |
+| 16:00 - 17:00   | UVL Tutorial: Session 2 |
+| 17:00 - 17:30   | Combined MODEVAR and Re:Volution Discussion |
+| 17:30 - 17:45   | Closing |
