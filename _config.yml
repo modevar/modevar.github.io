@@ -44,7 +44,7 @@ baseurl:
 repository: modevar/modevar.github.io
 teaser: 
 logo: 
-masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2025</span>
+masthead_title: MODEVAR@SPLC 2025
 words_per_minute: 200
 comments:
   provider: 
