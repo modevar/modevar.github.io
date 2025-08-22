@@ -8,14 +8,14 @@ redirect_from:
 - "/agenda/"
 ---
 
-The MODEVAR workshop is planned as a full day event at **September 1st, 2025** in A Coruña, Spain. In the current edition, we are combining MODEVAR workshop with Re:Volution to invite more discussion within the community and discover more ideas on improving UVL or variability modeling in general. Additionally, we provide a UVL tutorial to invite participants for trying out the latest capabilities of UVL.
+The MODEVAR workshop is planned as a full day event at **September 1st, 2025** in A Coruña, Spain. In the current edition, we are combining MODEVAR workshop with Re:Volution to invite more discussion within the community and discover more ideas on improving UVL or variability modeling in general. Additionally, we provide a UVL tutorial to invite participants for trying out the latest capabilities of UVL. Using this tutorial, we want to gather feedback and future requirements for improving UVL capabilities. 
 
 | Program         |                                                                                                                                                                      |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Session chair:  | Hafiyyan Sayyid Fadhlillah, Victor Lamas, Sandra Greiner, and Sebastian Krieter |
 | 09:00 - 09:10   | Opening |
 | Session chair:  | Hafiyyan Sayyid Fadhlillah |
-| 09:10 - 10:00   | Keynote: TBD |
+| 09:10 - 10:00   | Keynote: Manuel Wimmer <br> **Variability Modeling for and with Digital Twins** |
 | 10:00 - 10:30   | Coffee break |
 | Session chair:  | Sebastian Krieter |
 | 10:30 - 10:55   | Re:Volution Short Paper: Mathis Weiß, Simon Imran Butt and Malte Lochau <br> **On Reverse Engineering Cardinality-Based Feature Models**  |
@@ -36,3 +36,19 @@ The MODEVAR workshop is planned as a full day event at **September 1st, 2025** i
 | 16:00 - 17:00   | UVL Tutorial: Session 2 |
 | 17:00 - 17:30   | Combined MODEVAR and Re:Volution Discussion |
 | 17:30 - 17:45   | Closing |
+
+<img src="https://modevar.github.io/assets/images/manuel-wimmer.jpg" width="300px" />
+
+Speaker: Manuel Wimmer,  Full Professor and Head of the Department of Business Informatics – Software Engineering at JKU Linz, Austria.
+
+Title: **Variability Modeling for and with Digital Twins**
+
+### Abstract 
+
+Due to the vast usage and importance of cyber-physical systems as a backbone of our society, the design, realization, operation, and maintenance of such systems are becoming more and more challenging. As an answer, digital twins are emerging in many domains and are gaining attention to support different phases of the system lifecycle such as design-space exploration, runtime adaptation, and predictive maintenance. While benefits of using digital twins are already demonstrated for different domains, the systematic development and operation of digital twins which represent complex software systems are still major challenges, especially when support for different variants and versions is required.
+
+In my talk, I will first survey different modeling approaches for digital twins and show how existing engineering models are used for deriving digital twin models. Second, I will present a variability modeling approach for managing digital twin architectures. Finally, I will discuss the important role of variability modeling for digital twins and how variability modeling is pushed towards the runtime of systems by leveraging digital twins.
+
+### Biography
+
+Manuel Wimmer is full professor and head of the Institute of Business Informatics - Software Engineering at the Johannes Kepler University Linz, Austria. His research interests comprise foundations of software engineering and their application in various fields such as cyber-physical systems, quantum computing, and digital twins. He serves as associate editor for IEEE Transactions on Software Engineering, Software and Systems Modeling, and Business & Information Systems Engineering. He served as program co-chair for several conferences (e.g., QSW 2025, ICWE 2023, MODELS 2022, FASE 2022, SEAA 2020, ICMT 2015) and as general co-chair for SE 2024 and MODELS 2024. Currently he is co-organizing the 2nd International Conference on Engineering Digital Twins (EDTconf 2025). For more information, please visit: https://www.se.jku.at/manuel-wimmer
