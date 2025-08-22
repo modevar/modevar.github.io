@@ -37,7 +37,9 @@ The MODEVAR workshop is planned as a full day event at **September 1st, 2025** i
 | 17:00 - 17:30   | Combined MODEVAR and Re:Volution Discussion |
 | 17:30 - 17:45   | Closing |
 
-<img src="https://modevar.github.io/assets/images/manuel-wimmer.jpg" width="300px" />
+## Keynote
+
+<img src="https://modevar.github.io/assets/images/manuel-wimmer.jpg" width="150px" />
 
 Speaker: Manuel Wimmer,  Full Professor and Head of the Department of Business Informatics – Software Engineering at JKU Linz, Austria.
 
