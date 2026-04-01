@@ -9,6 +9,5 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Workshop Paper Submission        | ~~June 12, 2025~~ June 19, 2025 (AOE Time) |
-| Workshop Paper Notification        | ~~July 3, 2025~~ July 10, 2025 (AOE Time) |
-| Final version of papers       | ~~July 10, 2025~~ July 16, 2025 (AOE Time) |
+| Deadline for Presentations on Tools & Use Cases        | 24.04.2026 (AOE Time) |
+| Workshop       | 29.04.2026, 13:00-17:00 (CEST) |
