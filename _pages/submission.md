@@ -20,21 +20,22 @@ Mainly, we invite submissions considering topics related to variability modellin
 
 You can access the following EasyChair link:
 
-[https://easychair.org/my/conference?conf=splc2025](https://easychair.org/my/conference?conf=splc2025) 
+Coming soon
 
-Please use the **SPLC 2025 - MODEVAR Track** to submit your paper.
+Please use the **VARIABILITY 2026 - MODEVAR Track** to submit your paper.
 
 ## Submission Guidelines
 
 Submission types: Authors interested in participating in the workshop are requested to submit either:
 
-Regular paper (max. 8 pages + 2 for references) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
+Regular paper (max. 16 pages including references) that presents original research, lessons learned, or a well-argued vision related (but not limited) to the topics on variability modelling languages.
 
-Short paper (max. 4 pages + 2 for references) that describes sound new ideas and concepts that are under research or experimental studies.
+Short paper (max. 9 pages including references) that describes sound new ideas and concepts that are under research or experimental studies.
 
-Tool paper (max. 4 pages + 2 for references) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
+Tool paper (max. 9 pages including references) that describes a novel tool or sufficient increment of an existing tool targeting variability modelling languages.
 
-Format: Submissions must adhere to the latest ACM Master Article Template. Templates for Word and LaTeX are available at https://www.acm.org/publications/proceedings-template 
-Latex users are indicated to use the “sigconf” option, so they are recommended to use the template that can be found in “sample-sigconf.tex”.
+Format:  Submissions must use the Springer LNCS template according to: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+
+Springer provides author guidelines that should be consulted for further details: https://resource-preview-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v17 
 
 **IMPORTANT:** All papers submitted to the workshop must be unpublished original work and must not have been submitted anywhere else for publication.

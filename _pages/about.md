@@ -1,10 +1,9 @@
 ---
-title: 'Ninth International Workshop on Languages for Modelling Variability (MODEVAR@SPLC 2025)<br><span style="font-size: 60%;">A Coruña, Spain. 01. September 2025</span>'
+title: 'Tenth International Workshop on Languages for Modelling Variability (MODEVAR@VARIABILITY 2026)<br><span style="font-size: 60%;">Limassol, Cyprus. 29. September - 2. October 2026</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/images/coruna_header.webp"
+  overlay_image: "/assets/images/1-Panoramic-view-of-Limassol-city.jpeg"
   overlay_filter: 0.3
-  caption: 'Photo: [ACCB](https://acorunacb.com/)'
 author_profile: true
 classes: wide
 redirect_from:
@@ -12,8 +11,8 @@ redirect_from:
 - "/about.html"
 ---
 
-**Ninth International Workshop on Languages for Modelling Variability (SPLC 2025)**
-*colocated with [SPLC'25](https://2025.splc.net/)*
+**Tenth International Workshop on Languages for Modelling Variability (MODEVAR 2026)**
+*colocated with [VARIABILITY'26](https://conf.researchr.org/home/variability-2026/)*
 
 
 ---
@@ -22,6 +21,6 @@ Feature models were invented in 1990 and have been recognised as one of the main
 This meeting, following the spirit of the previous MODEVAR workshops, plans to be a full-day, interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on.
 
 ---
-The event Will be held co—located with the 29th ACM International Systems and Software Product Line Conference (SPLC 2025)
+The event Will be held co—located with the International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026)
 
 

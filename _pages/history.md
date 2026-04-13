@@ -19,3 +19,4 @@ MODEVAR started in 2019 as an initiative to discuss modelling techniques for sof
 - [MODEVAR@VaMoS 2024](https://modevar.github.io/vamos-2024). Bern, Switzerland. February 2024
 - [MODEVAR@SPLC 2024](https://modevar.github.io/splc-2024/). Luxemburg, Luxembourg. September 2024
 - [MODEVAR@VaMoS 2025](https://modevar.github.io/vamos-2025/). Rennes, France. February 2025
+- [MODEVAR@SPLC 2025](https://modevar.github.io/splc-2025/). A Coruña, Spain. September 2025

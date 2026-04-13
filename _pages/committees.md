@@ -13,21 +13,8 @@ redirect_from:
 * Thomas Thüm, Paderborn University, Germany
 
 ## Workshop Chairs
-* Hafiyyan Sayyid	Fadhlillah, Johannes Kepler University Linz, Austria
 * Victor Lamas, University of A Coruña, Spain
+* Mathis Weiß, University of Siegen, Germany
 
 ## Program Committee
-
-* David	Benavides, University of Seville
-* Mathieu Acher, University of Rennes, Inria, CNRS, IRISA
-* Pierre-Yves Schobbens, University of Namur 
-* Chico	Sundermann,	TU Braunschweig   
-* Thomas Thüm, TU Braunschweig 
-* Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
-* Rick Rabiser, Johannes Kepler University Linz, SCCH, Austria
-* Alexander Stummer, Johannes Kepler University Linz, Austria
-* Lidia	Fuentes, Universidad de Málaga
-* Philippe Collet, Université Côte d'Azur - CNRS/I3S, FR
-* Kristof Meixner, TU Wien
-* Maurice ter Beek, CNR
-* Maya Retno Ayu Setyautami, Universitas Indonesia
+* TBD
