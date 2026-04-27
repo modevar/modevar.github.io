@@ -8,7 +8,8 @@ redirect_from:
 - "/agenda/"
 ---
 
-The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026**, 13:00-17:00 (CEST). Find the program below.
+The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026**, 13:00-17:00 (CEST). Find the program below. *You can join the workshop here: [https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join](https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join).*
+
 
 | Time Slot (CEST) | Session | Session Chair | Details |
 |---|---|---|---|

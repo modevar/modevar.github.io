@@ -23,4 +23,8 @@ This meeting, following the spirit of the previous MODEVAR workshops, plans to b
 ---
 The event will be a half-day online event hosted at the TU Braunschweig.
 
+Date: **29.04.2026, 13:00-17:00 (CEST)**
+
+*You can join the workshop here: [https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join](https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join).*
+
 
