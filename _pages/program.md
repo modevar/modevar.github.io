@@ -25,10 +25,10 @@ The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026
 | 13:15-13:25 | UVL and UVLHub: enhancements and new applications | Esther Rocío Valladolid Ortíz |
 | 13:25-13:35 | FlamapyIDE 2.0: What's Next for Client-Side AAFM | Francisco Benítez |
 | 13:35-13:45 | Modular Software Product Lines with UVL | Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardinna |
-| 13:45-13:55 | uvllang: Towards a bidirectional UVL Parser | Tobias Hess |
-| 13:55-14:05 | UVL feature model configuration selection with simulated annealing: The FMCooler tool | Jabier Martinez |
-| 14:05-14:15 | UVL-Based Prompt Variability for AI Agents in UX design processes | Guillermo Ciria González |
-| 14:15-14:25 | SENSOLIVE: UVL for Variability Management in Deficit Irrigation of Olive Groves | Guillermo Ciria González |
+| 13:45-13:55 | UVL feature model configuration selection with simulated annealing: The FMCooler tool | Jabier Martinez |
+| 13:55-14:05 | UVL-Based Prompt Variability for AI Agents in UX design processes | Guillermo Ciria González |
+| 14:05-14:15 | SENSOLIVE: UVL for Variability Management in Deficit Irrigation of Olive Groves | Guillermo Ciria González |
+| 14:15-14:25 | uvllang: Towards a bidirectional UVL Parser | Tobias Heß |
 | 14:25-14:35 | Variability in Cyber Physical Production System | Malte Grave |
 | 14:35-14:45 | What UVL Made Us Invent: An Industrial Feature Model Toolchain and Its Unresolved Tensions | Thomas Kurpick |
 | 14:45-14:55 | Order Matters: Configuration Sequences in Feature Models | Kristof Meixner |
@@ -37,7 +37,7 @@ The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026
 
 Title: uvllang: Towards a bidirectional UVL Parser
 
-Speaker: Tobias Hess, DHBW Heidenheim
+Speaker: Tobias Heß, DHBW Heidenheim
 
 Abstract: uvllang [1] enhances the default UVL parser [2] by an UVL extractor (from dimacs/smt2 -> UVL). While such extractions will almost never be true to the original UVL model, especially when formulas have been preprocessed in the meantime, they produce a start for semi-automatic refinement by humans or AI systems. Similar techniques may also be used to simplify complex cross-tree constraints and remove redundant constraints.
 
