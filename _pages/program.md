@@ -18,20 +18,20 @@ The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026
 | 15:20-15:40 | Session 2: How to develop UVL as a community effort? | David Benavides | Presentation of new repository for language extension proposals.<br> Discussion on latest protocol to continuously incorporate community. |
 | 15:40-17:00 | Session 3: UVL Language Roadmap & Open Discussion | Kevin Feichtinger | Discussion on change suggestions for the language.<br> Create potential roadmap for UVL development. |
 
-## Session 1 Detailed Schedule (tentative)
+## Session 1 Detailed Schedule
 
 | Time Slot | Title | Speaker |
 |---|---|---|
-| 13:15-13:25 | UVL and UVLHub: enhancements and new applications | Esther Rocío Valladolid Ortíz |
-| 13:25-13:35 | FlamapyIDE 2.0: What's Next for Client-Side AAFM | Francisco Benítez |
-| 13:35-13:45 | Modular Software Product Lines with UVL | Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardinna |
-| 13:45-13:55 | UVL feature model configuration selection with simulated annealing: The FMCooler tool | Jabier Martinez |
-| 13:55-14:05 | UVL-Based Prompt Variability for AI Agents in UX design processes | Guillermo Ciria González |
-| 14:05-14:15 | SENSOLIVE: UVL for Variability Management in Deficit Irrigation of Olive Groves | Guillermo Ciria González |
-| 14:15-14:25 | uvllang: Towards a bidirectional UVL Parser | Tobias Heß |
-| 14:25-14:35 | Variability in Cyber Physical Production System | Malte Grave |
-| 14:35-14:45 | What UVL Made Us Invent: An Industrial Feature Model Toolchain and Its Unresolved Tensions | Thomas Kurpick |
-| 14:45-14:55 | Order Matters: Configuration Sequences in Feature Models | Kristof Meixner |
+| 13:15-13:25 | UVL and UVLHub: enhancements and new applications | Esther Rocío Valladolid Ortíz, University of Seville |
+| 13:25-13:35 | FlamapyIDE 2.0: What's Next for Client-Side AAFM | Francisco Benítez, University of Seville |
+| 13:35-13:45 | Modular Software Product Lines with UVL | Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardinna, University of A Coruña |
+| 13:45-13:55 | UVL feature model configuration selection with simulated annealing: The FMCooler tool | Jabier Martinez, Tecnalia France |
+| 13:55-14:05 | UVL-Based Prompt Variability for AI Agents in UX design processes | Guillermo Ciria González, University of Sevilla |
+| 14:05-14:15 | SENSOLIVE: UVL for Variability Management in Deficit Irrigation of Olive Groves | Guillermo Ciria González, University of Sevilla |
+| 14:15-14:25 | uvllang: Towards a bidirectional UVL Parser | Tobias Heß, DHBW Heidenheim |
+| 14:25-14:35 | Variability in Cyber Physical Production System | Malte Grave, JKU Linz |
+| 14:35-14:45 | What UVL Made Us Invent: An Industrial Feature Model Toolchain and Its Unresolved Tensions | Thomas Kurpick, Trusted Shops |
+| 14:45-14:55 | Order Matters: Configuration Sequences in Feature Models | Kristof Meixner, TU Wien |
 
 ## Session 1 Presentations: Further Information
 
@@ -95,7 +95,7 @@ Title: Variability in Cyber Physical Production System
 
 Speaker: Malte Grave, JKU Linz
 
-Abstract: -
+Abstract: Product lines in cyber-physical production systems heavily rely on different kinds of models, including feature models. In this demo, we want to show how tightly coupled feature models are in our tool and how we are moving to UVL. 
 
 ---
 
