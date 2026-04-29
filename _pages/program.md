@@ -13,7 +13,7 @@ The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026
 
 | Time Slot (CEST) | Session | Session Chair | Details |
 |---|---|---|---|
-| 13:00-13:15 | Session 0: Welcome & Overview on State of UVL | - | Short introduction into MODEVAR and UVL.<br> Overview on Program. |
+| 13:00-13:15 | Session 0: Welcome & Overview on State of UVL | Thomas Thüm | Short introduction into MODEVAR and UVL.<br> Overview on Program. |
 | 13:15-14:55 | Session 1: Tool Demos / Presentation of Use Cases | Rick Rabiser | Tool demos by participants targeting UVL and variability modeling in general.<br> & Presentations showcasing different requirements for variability specifications. |
 | 15:20-15:40 | Session 2: How to develop UVL as a community effort? | David Benavides | Presentation of new repository for language extension proposals.<br> Discussion on latest protocol to continuously incorporate community. |
 | 15:40-17:00 | Session 3: UVL Language Roadmap & Open Discussion | Kevin Feichtinger | Discussion on change suggestions for the language.<br> Create potential roadmap for UVL development. |
@@ -24,7 +24,7 @@ The MODEVAR workshop is planned as a half-day online event at **April 29th, 2026
 |---|---|---|
 | 13:15-13:25 | UVL and UVLHub: enhancements and new applications | Esther Rocío Valladolid Ortíz, University of Seville |
 | 13:25-13:35 | FlamapyIDE 2.0: What's Next for Client-Side AAFM | Francisco Benítez, University of Seville |
-| 13:35-13:45 | Modular Software Product Lines with UVL | Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardinna, University of A Coruña |
+| 13:35-13:45 | Modular Software Product Lines with UVL | Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardiña, University of A Coruña |
 | 13:45-13:55 | UVL feature model configuration selection with simulated annealing: The FMCooler tool | Jabier Martinez, Tecnalia France |
 | 13:55-14:05 | UVL-Based Prompt Variability for AI Agents in UX design processes | Guillermo Ciria González, University of Sevilla |
 | 14:05-14:15 | SENSOLIVE: UVL for Variability Management in Deficit Irrigation of Olive Groves | Guillermo Ciria González, University of Sevilla |
@@ -45,7 +45,7 @@ Abstract: uvllang [1] enhances the default UVL parser [2] by an UVL extractor (f
 
 Title: Modular Software Product Lines with UVL
 
-Speaker: Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardin~na, University of A Coruña
+Speaker: Miguel Ángel Rodríguez Luaces & Víctor Juan Lamas Sardiña, University of A Coruña
 
 Abstract: We've been applying Software Product Line concepts to build a web-based GIS platform. In practice, though, we kept running into a recurring issue: different use cases required us to fork the product line, each time with slightly different subsets of functionality. At the same time, many parts of the system (e.g., user management) are clearly reusable and shouldn't be duplicated or reimplemented. What we really need is a way to define SPLs by composing modules, rather than treating the whole product line as a single monolithic artifact.
 
