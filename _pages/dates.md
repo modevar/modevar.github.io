@@ -7,8 +7,6 @@ redirect_from:
 - "/important-dates/"
 ---
 
-*You can join the workshop here: [https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join](https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join).*
-
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
