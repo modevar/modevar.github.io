@@ -13,6 +13,7 @@ redirect_from:
 * Thomas Thüm, TU Braunschweig, Germany
 * Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
 * José Ángel Galindo, University of Seville, Spain
+* Chico Sundermann, TU Braunschweig, Germany
 
 ## Workshop Chairs
 * Victor Lamas, University of A Coruña, Spain
