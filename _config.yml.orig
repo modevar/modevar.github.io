@@ -1,0 +1,211 @@
+---
+<<<<<<< HEAD
+title: MODEVAR Online Edition
+=======
+title: MODEVAR@VARIABILITY 2026
+>>>>>>> remote/master
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single
+    author_profile: false
+    read_time: false
+    share: false
+    comments: false
+    related: false
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: false
+    comments: false
+    share: true
+    related: true
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: air
+locale: en-US
+title_separator: "-"
+name: International Workshop on Languages for Modelling Variability (MODEVAR)
+<<<<<<< HEAD
+description: Website of the International Workshop on Languages for Modelling
+=======
+description: Website of the Tenth International Workshop on Languages for Modelling
+>>>>>>> remote/master
+  Variability
+url: https://modevar.github.io
+baseurl: 
+repository: modevar/modevar.github.io
+teaser: 
+logo: 
+<<<<<<< HEAD
+masthead_title: MODEVAR Online Edition
+=======
+masthead_title: MODEVAR@VARIABILITY 2026
+>>>>>>> remote/master
+words_per_minute: 200
+comments:
+  provider: 
+  disqus:
+    shortname: 
+  discourse:
+    server: 
+  facebook:
+    appid: 
+    num_posts: 
+    colorscheme: 
+  utterances:
+    theme: 
+    issue_term: 
+staticman:
+  allowedFields: 
+  branch: 
+  commitMessage: 
+  filename: 
+  format: 
+  moderation: 
+  path: 
+  requiredFields: 
+  transforms:
+    email: 
+  generatedFields:
+    date:
+      type: 
+      options:
+        format: 
+  endpoint: 
+reCaptcha:
+  siteKey: 
+  secret: 
+atom_feed:
+  path: 
+search: true
+search_full_content: true
+search_provider: lunr
+google_site_verification: 
+bing_site_verification: 
+yandex_site_verification: 
+naver_site_verification:
+  username: 
+facebook:
+  username: 
+  app_id: 
+  publisher: 
+og_image: "/assets/modevar/site-logo.png"
+social:
+  type: 
+  name: 
+  links: 
+analytics:
+  provider: false
+  google:
+    tracking_id: 
+    anonymize_ip: false
+author:
+  name: ''
+<<<<<<< HEAD
+  avatar: assets/modevar/modevar-2026-online.png
+  bio: What variability language do you wanna use?...
+  location: Online
+=======
+  avatar: assets/modevar/modevar-2026-variability.jpg
+  bio: What variability language do you wanna use?...
+  location: at VARIABILITY 2026
+  links:
+  - label: Limassol, Cyprus
+    icon: fas fa-fw fa-map-marker-alt
+    url: 
+footer:
+  links:
+  - label: VARIABILITY 2026
+    url: https://conf.researchr.org/home/variability-2026
+>>>>>>> remote/master
+include:
+- ".htaccess"
+- _pages
+exclude:
+- "*.sublime-project"
+- "*.sublime-workspace"
+- vendor
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- assets/js/plugins
+- assets/js/_main.js
+- assets/js/vendor
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- node_modules
+- package.json
+- Rakefile
+- README
+- NOTES
+- tmp
+keep_files:
+- ".git"
+- ".svn"
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "/page:num/"
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jemoji
+- jekyll-include-cache
+whitelist:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jemoji
+- jekyll-include-cache
+category_archive:
+  type: liquid
+  path: "/categories/"
+tag_archive:
+  type: liquid
+  path: "/tags/"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
