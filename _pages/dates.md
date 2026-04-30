@@ -12,5 +12,7 @@ redirect_from:
 
 | Action               | Date                     |
 | -------------------- | ------------------------ |
-| Deadline for Presentations on Tools & Use Cases        | 24.04.2026 (AOE Time) |
-| Workshop       | 29.04.2026, 13:00-17:00 (CEST) |
+| Workshop Paper Submission     | June 15, 2026 (AOE Time) |
+| Workshop Paper Notification        | July 7, 2026 (AOE Time) |
+| Final version of papers and registration deadline       | July 14, 2026 (AOE Time) |
+| Workshop at VARIABILITY 2026      | September 29, 2026
