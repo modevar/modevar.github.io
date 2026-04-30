@@ -23,7 +23,7 @@ This meeting, following the spirit of the previous MODEVAR workshops, plans to b
 ---
 The event Will be held co—located with the International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026)
 
-Date: **29.04.2026, 13:00-17:00 (CEST)**
+Date: **September 29, 2026**
 
 *You can join the workshop here: [https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join](https://webconf.tu-bs.de/rooms/dpr-p1e-jwe-plh/join).*
 
