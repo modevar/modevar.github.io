@@ -41,6 +41,8 @@ Speaker: Tobias Heß, DHBW Heidenheim
 
 Abstract: uvllang [1] enhances the default UVL parser [2] by an UVL extractor (from dimacs/smt2 -> UVL). While such extractions will almost never be true to the original UVL model, especially when formulas have been preprocessed in the meantime, they produce a start for semi-automatic refinement by humans or AI systems. Similar techniques may also be used to simplify complex cross-tree constraints and remove redundant constraints.
 
+Tool: https://github.com/OBDDimal/uvllang
+
 ---
 
 Title: Modular Software Product Lines with UVL
@@ -55,7 +57,9 @@ Title: UVL feature model configuration selection with simulated annealing : The 
 
 Speaker: Jabier Martinez, Tecnalia France
 
-Abstract: FMCooler is a tool that uses the classical Simulated Annealing algorithm to search for valid and optimized feature configurations within feature models. Built on top of flamapy, qubovert and dwave-neal, it is a competitive open-source addition for your toolbox on mono- or multi-criteria optimization for variability management. It requires UVL for the feature model. For the numeric values of the quality attributes for the features, it supports both CSV files and UVL attributes format. https://github.com/jdanielescanez/fmcooler
+Abstract: FMCooler is a tool that uses the classical Simulated Annealing algorithm to search for valid and optimized feature configurations within feature models. Built on top of flamapy, qubovert and dwave-neal, it is a competitive open-source addition for your toolbox on mono- or multi-criteria optimization for variability management. It requires UVL for the feature model. For the numeric values of the quality attributes for the features, it supports both CSV files and UVL attributes format.
+
+Tool: https://github.com/jdanielescanez/fmcooler
 
 ---
 
@@ -105,6 +109,8 @@ Speaker: Esther Rocío Valladolid Ortíz, University of Seville
 
 Abstract: The presentation covers the latest enhancements to UVLHub as a centralized repository for UVL feature models, as well as a new application towards a Software Product Line for drone propellers.
 
+Tool: https://www.uvlhub.io/
+
 ---
 
 Title: FlamapyIDE 2.0: What's Next for Client-Side AAFM
@@ -112,5 +118,7 @@ Title: FlamapyIDE 2.0: What's Next for Client-Side AAFM
 Speaker: Francisco Benítez, University of Seville
 
 Abstract: This presentation highlights the new features of FlamapyIDE, a web-based editor with client-side Automated Analysis of Feature Models (AAFM) capabilities, including secure UVL model sharing via URLs and direct saving to UVLHub. Furthermore, the updated tool introduces dedicated visual views for model metrics and a live-coding collaborative mode that enables multiple users to edit the same model in real time.
+
+Tool: https://ide.flamapy.org/
 
 ---
