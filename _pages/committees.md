@@ -10,7 +10,7 @@ redirect_from:
 ## Steering Committee
 * David Benavides, University of Seville, Spain
 * Rick Rabiser, Johannes Kepler University Linz, SCCH, Austria
-* Thomas Thüm, Paderborn University, Germany
+* Thomas Thüm, TU Braunschweig, Germany
 
 ## Workshop Chairs
 * Victor Lamas, University of A Coruña, Spain
