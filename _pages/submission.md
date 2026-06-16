@@ -20,7 +20,7 @@ Mainly, we invite submissions considering topics related to variability modellin
 
 You can access the following EasyChair link:
 
-https://easychair.org/conferences/?conf=variability2026
+[https://easychair.org/conferences/?conf=variability2026](https://easychair.org/conferences/?conf=variability2026)
 
 Please use the **VARIABILITY 2026 - MODEVAR Track** to submit your paper.
 
