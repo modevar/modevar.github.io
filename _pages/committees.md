@@ -20,4 +20,14 @@ redirect_from:
 * Mathis Weiß, University of Siegen, Germany
 
 ## Program Committee
-* TBD
+* Maurice ter Beek, CNR-ISTI Pisa, Italy
+* David Benavides, University of Seville, Spain
+* Philippe Collet, University of Nice, France
+* Hafiyyan Sayyid Fadhlillah, University of Rennes, France
+* Kevin Feichtinger, Karlsruhe Institute of Technology, Germany
+* José Ángel Galindo, University of Seville, Spain
+* José Miguel Horcas, Universidad de Málaga, Spain
+* Miguel Rodríguez Luaces, University of A Coruña, Spain
+* Kristof Meixner, TU Wien, Austria
+* Rick Rabiser, Johannes Kepler University Linz, SCCH, Austria
+* Chico Sundermann, TU Braunschweig, Germany
